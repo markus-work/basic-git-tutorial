@@ -45,7 +45,7 @@ Then git will commit it and gives it a hash. "Stores all the instructions in a b
 > TEXT EDITOR HELP. You may be in a new type of editor called vim.
 To write here, type `i` to be start writing the message.
 Then hit `esc` to exit the insert mode. type `:wq` to save and quit.
-
+dfgdfsg
 Type `git status` to see that no changes are there.
 
 This process can be repeated a lot. People usually commit too seldom. This can be done very often. It is better with too many commits than too few, as it is easier to combine them later, rather than splitting them up.
